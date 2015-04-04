@@ -1,0 +1,13 @@
+body div.pp_default {
+	
+}
+
+body div.pp_default .pp_details {
+	position: inherit;
+}
+
+body div.pp_default .pp_close {
+	position: absolute;
+	top: -20px;
+	right: 0;
+}
